@@ -1,0 +1,175 @@
+date,traffic_source,search_engine,referral_source,utm_source,utm_medium,utm_campaign,utm_term,utm_content,start_url,costs,impressions,clicks,visits,deal_id,product_name,city,manager,form,leads,q_leads,orders,revenue
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,150000,50000,2300,2800,0,,,,,0,0,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/,10000,5500,200,250,0,,,,,0,0,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/contacts/,8000,4500,150,180,0,,,,,0,0,0,0
+01.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/,200000,60000,1800,2200,0,,,,,0,0,0,0
+01.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/catalog/,10000,5500,200,250,0,,,,,0,0,0,0
+01.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,8000,4500,150,180,0,,,,,0,0,0,0
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,150000,350000,2000,2500,0,,,,,0,0,0,0
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/catalog/,10000,5500,200,250,0,,,,,0,0,0,0
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/contacts/,8000,4500,150,180,0,,,,,0,0,0,0
+01.03.25,Авито,,,,,,,,,20000,0,0,0,0,,,,,0,0,0,0
+01.03.25,2Гис (звонок),,,,,,,,,5000,0,0,0,0,,,,,0,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,5000,0,,,,,0,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/,0,0,0,1200,0,,,,,0,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/contacts/,0,0,0,800,0,,,,,0,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,1500,0,,,,,0,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/,0,0,0,900,0,,,,,0,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/contacts/,0,0,0,600,0,,,,,0,0,0,0
+01.03.25,direct,,,,,,,,https://example.ru/catalog/,0,0,0,300,0,,,,,0,0,0,0
+01.03.25,direct,,,,,,,,https://example.ru/,0,0,0,120,0,,,,,0,0,0,0
+01.03.25,direct,,,,,,,,https://example.ru/contacts/,0,0,0,350,0,,,,,0,0,0,0
+01.03.25,referral,,https://website.ru/,,,,,,https://example.ru/catalog/,0,0,0,700,0,,,,,0,0,0,0
+01.03.25,referral,,https://site.ru/,,,,,,https://example.ru/,0,0,0,500,0,,,,,0,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,0,10014,Продукт 1,Новосибирск,Алена Морозова,Форма расчета стоимости,5,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,0,10014,Продукт 1,Москва,Алена Морозова,Звонок,3,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,0,10014,Продукт 1,Новосибирск,Алена Морозова,Чат на сайте,4,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,0,10014,Продукт 1,Новосибирск,Дмитрий Лебедев,Форма расчета стоимости,6,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,0,10014,Продукт 1,Москва,Дмитрий Лебедев,Звонок,1,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,0,10014,Продукт 1,Новосибирск,Дмитрий Лебедев,Чат на сайте,3,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,0,10014,Продукт 1,Новосибирск,Дмитрий Лебедев,Форма расчета стоимости,7,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,0,10014,Продукт 1,Новосибирск,Дмитрий Лебедев,Звонок,1,0,0,0
+01.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,0,10014,Продукт 1,Новосибирск,Дмитрий Лебедев,Чат на сайте,3,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,0,10324,Продукт 2,Москва,Иван Петров,Форма расчета стоимости,5,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,0,10324,Продукт 2,Москва,Иван Петров,Звонок,3,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,0,10324,Продукт 2,Москва,Иван Петров,Чат на сайте,9,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,0,10324,Продукт 2,Екатеринбург,Алена Морозова,Форма расчета стоимости,2,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,0,10324,Продукт 2,Екатеринбург,Алена Морозова,Звонок,3,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,0,10324,Продукт 2,Екатеринбург,Алена Морозова,Чат на сайте,5,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,0,10324,Продукт 2,Екатеринбург,Дмитрий Лебедев,Форма расчета стоимости,1,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,0,10324,Продукт 2,Москва,Дмитрий Лебедев,Звонок,4,0,0,0
+01.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,0,10324,Продукт 2,Екатеринбург,Дмитрий Лебедев,Чат на сайте,2,0,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10015,Продукт 1,Москва,Иван Петров,Форма расчета стоимости,13,0,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10016,Продукт 2,Новосибирск,Алена Морозова,Звонок,12,28,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10019,Продукт 3,Казань,Алена Морозова,Чат на сайте,11,0,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10015,Продукт 1,Москва,Иван Петров,Форма расчета стоимости,0,13,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10016,Продукт 2,Новосибирск,Алена Морозова,Звонок,0,7,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10019,Продукт 3,Казань,Алена Морозова,Чат на сайте,0,8,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10020,Продукт 4,Екатеринбург,Дмитрий Лебедев,Звонок,0,25,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10016,Продукт 2,Новосибирск,Алена Морозова,Звонок,0,0,19,1140000
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10019,Продукт 3,Казань,Алена Морозова,Чат на сайте,0,0,17,975000
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10020,Продукт 4,Екатеринбург,Дмитрий Лебедев,Звонок,0,0,21,890000
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,0,10017,Продукт 1,Москва,Иван Петров,Чат на сайте,18,0,0,0
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,0,10017,Продукт 1,Москва,Алена Морозова,Звонок,26,0,0,0
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,0,10017,Продукт 1,Москва,Иван Петров,Форма расчета стоимости,0,0,5,1175000
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,0,10017,Продукт 1,Москва,Иван Петров,Чат на сайте,8,14,0,0
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,0,10017,Продукт 1,Москва,Алена Морозова,Звонок,0,12,0,0
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,0,10017,Продукт 1,Москва,Иван Петров,Форма расчета стоимости,0,4,0,0
+01.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,0,0,0,0,10018,Продукт 2,Краснодар,Иван Петров,Чат на сайте,0,0,12,1794000
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10019,Продукт 3,Казань,Алена Морозова,Форма расчета стоимости,38,0,0,0
+01.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,10020,Продукт 4,Екатеринбург,Дмитрий Лебедев,Звонок,0,25,0,0
+01.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,0,10021,Продукт 3,Казань,Алена Морозова,Чат на сайте,0,0,4,1495000
+01.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,0,0,0,0,10022,Продукт 4,Краснодар,Иван Петров,Звонок,0,0,8,1196000
+01.03.25,Авито,,,,,,,,,0,0,0,0,10055,Продукт 3,Москва,Алена Морозова,Авито,12,0,0,0
+01.03.25,Авито,,,,,,,,,0,0,0,0,10056,Продукт 3,Москва,Алена Морозова,Авито,0,7,0,0
+01.03.25,Авито,,,,,,,,,0,0,0,0,10057,Продукт 3,Москва,Алена Морозова,Авито,0,0,3,655000
+01.03.25,2Гис (звонок),,,,,,,,,0,0,0,0,10058,Продукт 3,Москва,Дмитрий Лебедев,2Гис (звонок),8,0,0,0
+01.03.25,2Гис (звонок),,,,,,,,,0,0,0,0,10059,Продукт 3,Москва,Дмитрий Лебедев,2Гис (звонок),0,5,0,0
+01.03.25,2Гис (звонок),,,,,,,,,0,0,0,0,10060,Продукт 3,Москва,Дмитрий Лебедев,2Гис (звонок),0,0,4,510000
+02.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,165000,55000,2530,3100,0,,,,,0,0,0,0
+02.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/,11000,6000,220,270,0,,,,,0,0,0,0
+02.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/contacts/,8800,4800,165,198,0,,,,,0,0,0,0
+02.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/,220000,66000,1980,2420,0,,,,,0,0,0,0
+02.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/catalog/,11000,6000,220,270,0,,,,,0,0,0,0
+02.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,8800,4800,165,198,0,,,,,0,0,0,0
+02.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,165000,385000,2200,2750,0,,,,,0,0,0,0
+02.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/catalog/,11000,6000,220,270,0,,,,,0,0,0,0
+02.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/contacts/,8800,4800,165,198,0,,,,,0,0,0,0
+02.03.25,Авито,,,,,,,,,7380,0,0,0,0,,,,,0,0,0,0
+02.03.25,2Гис (звонок),,,,,,,,,4500,0,0,0,0,,,,,0,0,0,0
+02.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,5500,0,,,,,0,0,0,0
+02.03.25,organic,yandex,,,,,,,https://example.ru/,0,0,0,1320,0,,,,,0,0,0,0
+02.03.25,organic,yandex,,,,,,,https://example.ru/contacts/,0,0,0,880,0,,,,,0,0,0,0
+02.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,1650,0,,,,,0,0,0,0
+02.03.25,organic,google,,,,,,,https://example.ru/,0,0,0,990,0,,,,,0,0,0,0
+02.03.25,organic,google,,,,,,,https://example.ru/contacts/,0,0,0,660,0,,,,,0,0,0,0
+02.03.25,direct,,,,,,,,https://example.ru/catalog/,0,0,0,330,0,,,,,0,0,0,0
+02.03.25,direct,,,,,,,,https://example.ru/,0,0,0,132,0,,,,,0,0,0,0
+02.03.25,direct,,,,,,,,https://example.ru/contacts/,0,0,0,385,0,,,,,0,0,0,0
+02.03.25,referral,,https://website.ru/,,,,,,https://example.ru/catalog/,0,0,0,770,0,,,,,0,0,0,0
+02.03.25,referral,,https://site.ru/,,,,,,https://example.ru/,0,0,0,550,0,,,,,0,0,0,0
+02.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,,20015,Продукт 1,Москва,Иван Петров,Форма расчета стоимости,45,0,0,0
+02.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,,20016,Продукт 2,Новосибирск,Алена Морозова,Форма расчета стоимости,0,30,0,0
+02.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,,20017,Продукт 1,Москва,Иван Петров,Чат на сайте,0,0,16,2392000
+02.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,0,0,0,,20018,Продукт 2,Краснодар,Иван Петров,Форма расчета стоимости,0,0,13,1943500
+02.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,,20019,Продукт 3,Казань,Алена Морозова,Звонок,41,0,0,0
+02.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,,20020,Продукт 4,Екатеринбург,Дмитрий Лебедев,Звонок,0,27,0,0
+02.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,,20021,Продукт 3,Казань,Алена Морозова,Звонок,0,0,11,1644500
+02.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,0,0,0,,20022,Продукт 4,Краснодар,Иван Петров,Форма расчета стоимости,0,0,9,1345500
+03.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,181500,60500,2783,3410,0,,,,,0,0,0,0
+03.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/,12100,6600,242,297,0,,,,,0,0,0,0
+03.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/contacts/,9680,5280,182,218,0,,,,,0,0,0,0
+03.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/,242000,72600,2178,2662,0,,,,,0,0,0,0
+03.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/catalog/,12100,6600,242,297,0,,,,,0,0,0,0
+03.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,9680,5280,182,218,0,,,,,0,0,0,0
+03.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,181500,423500,2420,3025,0,,,,,0,0,0,0
+03.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/catalog/,12100,6600,242,297,0,,,,,0,0,0,0
+03.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/contacts/,9680,5280,182,218,0,,,,,0,0,0,0
+03.03.25,Авито,,,,,,,,,4380,0,0,0,0,,,,,0,0,0,0
+03.03.25,2Гис (звонок),,,,,,,,,5910,0,0,0,0,,,,,0,0,0,0
+03.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,6050,0,,,,,0,0,0,0
+03.03.25,organic,yandex,,,,,,,https://example.ru/,0,0,0,1452,0,,,,,0,0,0,0
+03.03.25,organic,yandex,,,,,,,https://example.ru/contacts/,0,0,0,968,0,,,,,0,0,0,0
+03.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,1815,0,,,,,0,0,0,0
+03.03.25,organic,google,,,,,,,https://example.ru/,0,0,0,1089,0,,,,,0,0,0,0
+03.03.25,organic,google,,,,,,,https://example.ru/contacts/,0,0,0,726,0,,,,,0,0,0,0
+03.03.25,direct,,,,,,,,https://example.ru/catalog/,0,0,0,363,0,,,,,0,0,0,0
+03.03.25,direct,,,,,,,,https://example.ru/,0,0,0,145,0,,,,,0,0,0,0
+03.03.25,direct,,,,,,,,https://example.ru/contacts/,0,0,0,424,0,,,,,0,0,0,0
+03.03.25,referral,,https://website.ru/,,,,,,https://example.ru/catalog/,0,0,0,847,0,,,,,0,0,0,0
+03.03.25,referral,,https://site.ru/,,,,,,https://example.ru/,0,0,0,605,0,,,,,0,0,0,0
+03.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,30015,Продукт 1,Москва,Иван Петров,Звонок,48,0,0,0
+03.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,30016,Продукт 2,Новосибирск,Алена Морозова,Форма расчета стоимости,0,32,0,0
+03.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,0,30017,Продукт 1,Москва,Иван Петров,Чат на сайте,0,0,17,2543000
+03.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,0,0,0,0,30018,Продукт 2,Краснодар,Иван Петров,Звонок,0,0,14,2093000
+03.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,30019,Продукт 3,Казань,Алена Морозова,Форма расчета стоимости,44,0,0,0
+03.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,0,30020,Продукт 4,Екатеринбург,Дмитрий Лебедев,Звонок,0,29,0,0
+03.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,0,30021,Продукт 3,Казань,Алена Морозова,Форма расчета стоимости,0,0,12,1794000
+03.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,0,0,0,0,30022,Продукт 4,Краснодар,Иван Петров,Чат на сайте,0,0,10,1495000
+04.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,199650,66550,3061,3751,0,,,,,0,0,0,0
+04.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/,13310,7260,266,327,0,,,,,0,0,0,0
+04.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/contacts/,10648,5808,200,240,0,,,,,0,0,0,0
+04.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/,266200,79860,2396,2928,0,,,,,0,0,0,0
+04.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/catalog/,13310,7260,266,327,0,,,,,0,0,0,0
+04.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,10648,5808,200,240,0,,,,,0,0,0,0
+04.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,212814,497154,3068,3726,0,,,,,0,0,0,0
+04.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/catalog/,13310,7260,266,327,0,,,,,0,0,0,0
+04.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/contacts/,10648,5808,200,240,0,,,,,0,0,0,0
+04.03.25,Авито,,,,,,,,,11450,0,0,0,0,,,,,0,0,0,0
+04.03.25,2Гис (звонок),,,,,,,,,3470,0,0,0,0,,,,,0,0,0,0
+04.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,6655,0,,,,,0,0,0,0
+04.03.25,organic,yandex,,,,,,,https://example.ru/,0,0,0,1597,0,,,,,0,0,0,0
+04.03.25,organic,yandex,,,,,,,https://example.ru/contacts/,0,0,0,1065,0,,,,,0,0,0,0
+04.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,1997,0,,,,,0,0,0,0
+04.03.25,organic,google,,,,,,,https://example.ru/,0,0,0,1198,0,,,,,0,0,0,0
+04.03.25,organic,google,,,,,,,https://example.ru/contacts/,0,0,0,799,0,,,,,0,0,0,0
+04.03.25,direct,,,,,,,,https://example.ru/catalog/,0,0,0,399,0,,,,,0,0,0,0
+04.03.25,direct,,,,,,,,https://example.ru/,0,0,0,160,0,,,,,0,0,0,0
+04.03.25,direct,,,,,,,,https://example.ru/contacts/,0,0,0,466,0,,,,,0,0,0,0
+04.03.25,referral,,https://website.ru/,,,,,,https://example.ru/catalog/,0,0,0,932,0,,,,,0,0,0,0
+04.03.25,referral,,https://site.ru/,,,,,,https://example.ru/,0,0,0,666,0,,,,,0,0,0,0
+04.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,,40015,Продукт 1,Москва,Иван Петров,Звонок,51,0,0,0
+04.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,,40016,Продукт 2,Новосибирск,Алена Морозова,Чат на сайте,0,34,0,0
+04.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,,40017,Продукт 1,Москва,Иван Петров,Форма расчета стоимости,0,0,18,2691000
+04.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,0,0,0,,40018,Продукт 2,Краснодар,Иван Петров,Звонок,0,0,15,2242500
+04.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,,40019,Продукт 3,Казань,Алена Морозова,Чат на сайте,47,0,0,0
+04.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,0,0,0,,40020,Продукт 4,Екатеринбург,Дмитрий Лебедев,Форма расчета стоимости,0,31,0,0
+04.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,0,0,0,,40021,Продукт 3,Казань,Алена Морозова,Звонок,0,0,13,1943500
+04.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,0,0,0,,40022,Продукт 4,Краснодар,Иван Петров,Звонок,0,0,11,1644500
+05.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/catalog/,219615,73205,3367,4126,0,,,,,0,0,0,0
+05.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/,14641,7986,293,360,0,,,,,0,0,0,0
+05.03.25,ad,,,yandex,cpc,campaign_ya,term_ya,content_ya,https://example.ru/contacts/,11713,6389,220,264,0,,,,,0,0,0,0
+05.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/,292820,87846,2635,3221,0,,,,,0,0,0,0
+05.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/catalog/,14641,7986,293,360,0,,,,,0,0,0,0
+05.03.25,ad,,,tg_ads,cpc,campaign_tg,term_tg,content_tg,https://example.ru/contacts/,11713,6389,220,264,0,,,,,0,0,0,0
+05.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/,219615,512435,2928,3660,0,,,,,0,0,0,0
+05.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/catalog/,14641,7986,293,360,0,,,,,0,0,0,0
+05.03.25,ad,,,vk_ads,cpc,campaign_vk,term_vk,content_vk,https://example.ru/contacts/,11713,6389,220,264,0,,,,,0,0,0,0
+05.03.25,Авито,,,,,,,,,8340,0,0,0,0,,,,,0,0,0,0
+05.03.25,2Гис (звонок),,,,,,,,,3250,0,0,0,0,,,,,0,0,0,0
+05.03.25,organic,yandex,,,,,,,https://example.ru/catalog/,0,0,0,7321,0,,,,,0,0,0,0
+05.03.25,organic,yandex,,,,,,,https://example.ru/,0,0,0,1757,0,,,,,0,0,0,0
+05.03.25,organic,yandex,,,,,,,https://example.ru/contacts/,0,0,0,1171,0,,,,,0,0,0,0
+05.03.25,organic,google,,,,,,,https://example.ru/catalog/,0,0,0,2196,0,,,,,0,0,0,0
+05.03.25,organic,google,,,,,,,https://example.ru/,0,0,0,1318,0,,,,,0,0,0,0
+05.03.25,organic,google,,,,,,,https://example.ru/contacts/,0,0,0,879,0,,,,,0,0,0,0
